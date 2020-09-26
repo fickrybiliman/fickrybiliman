@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+> Learn from the mistakes of others. You can't live long enough to make them all yourself.
+> -- Eleanor Roosevelt
