@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JS, Java**
 
-- 📫 How to reach me **fickry.bil.iman@gmail.com**
+- 📫 How to reach me **fickry.bil.iman@gmail.com** or **bil.iman.fickry@gmail.com**
 
 - ⚡ Fun fact **I don't really ❤️ code, but I definitely write code with ❤️.**
 
