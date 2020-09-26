@@ -38,17 +38,14 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Contact me at 
+## Find me around the web :globe_with_meridians:
 <p align="left">
 <a href="https://linkedin.com/in/fickry-bil-iman-49347b17" target="blank">
   <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
 </a>
-<a href="https://www.hackerrank.com/fickry_bil_iman" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fickry_bil_iman" height="30" width="30" />
-  </a>
 </p>
 
 > Learn from the mistakes of others. You can't live long enough to make them all yourself.
 > -- Eleanor Roosevelt
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biliman&show_icons=true" alt="biliman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biliman&&theme=dark&show_icons=true" alt="biliman" /></p>
