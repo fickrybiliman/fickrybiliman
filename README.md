@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact **I don't really ❤️ code, but I definitely write code with ❤️.**
 
-## Favourite Tech Stack
-### ❤️ (Programming Language, Frontend, Backend, Mobile, Database, Devops, Others) 
+## Favourite tech stack
+### ❤️ (Programming language, frontend, backend, mobile, database, devops, others) 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
