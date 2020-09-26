@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Fickry Bil Iman] (https://www.github.com/fickrybiliman)
+# Hi there 👋, I'm [Fickry Bil Iman](https://www.github.com/fickrybiliman)
 
 I'm a network and system engineer who try to switch careers and getting into programming and devops.
 
