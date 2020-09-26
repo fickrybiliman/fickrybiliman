@@ -17,7 +17,7 @@
 
 ## Favourite Tech Stack
 ### ❤️ (Programming Language, Frontend, Backend, Mobile, Database, Devops, Others) 
-<p align="left">
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="70" height="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,8 +45,9 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
 <p align="center">
-<a href="https://linkedin.com/in/fickry-bil-iman-49347b17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fickry-bil-iman-49347b17" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/fickry-bil-iman-49347b17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/icons/linkedin.svg" alt="fickry-bil-iman-49347b17" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/fickry_bil_iman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fickry_bil_iman" height="30" width="30" /></a>
 </p>
 
