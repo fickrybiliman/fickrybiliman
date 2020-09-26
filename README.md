@@ -47,7 +47,9 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/fickry-bil-iman-49347b17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/icons/linkedin.svg" alt="fickry-bil-iman-49347b17" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/fickry-bil-iman-49347b17" target="blank">
+  <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
+</a>
 <a href="https://www.hackerrank.com/fickry_bil_iman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fickry_bil_iman" height="30" width="30" /></a>
 </p>
 
