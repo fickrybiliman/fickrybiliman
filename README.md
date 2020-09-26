@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a network and system engineer who try to switch careers and getting into programming and devops.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biliman" alt="biliman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fickrybiliman" alt="biliman" /> </p>
 
 
 - 🔭 I’m currently working on **Melawi District Financial System Projects**
@@ -48,4 +48,4 @@
 > Learn from the mistakes of others. You can't live long enough to make them all yourself.
 > -- Eleanor Roosevelt
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biliman&&theme=dark&show_icons=true" alt="biliman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fickrybiliman&&theme=dark&show_icons=true" alt="fickrybiliman" /></p>
