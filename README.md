@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Fickry Bil Iman
 
+I'm a network and system engineer who try to switch careers and getting into programming and devops.
+
 <!--
 **fickrybiliman/fickrybiliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
